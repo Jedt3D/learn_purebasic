@@ -1,0 +1,1 @@
+;Uncomment each lines and run to see the result;Debug "Hello, World";MessageRequester("Worajedt","Hello, how are you?"); IDE Options = PureBasic 4.61 (MacOS X - x86); EnableXP

@@ -1,0 +1,1 @@
+;1.Try to run normally;2.Add a breakpoint (F9) at line 9, then run;3.Use F8 to step the debugging process;4.Open Debugger > Variable Viewera = 5b = 7c = 3d = a + bd / cDebug d; IDE Options = PureBasic 4.61 (MacOS X - x86); CursorPosition = 3; EnableXP
