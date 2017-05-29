@@ -1,1 +1,1 @@
-;Uncomment each lines and run to see the result;Debug "Hello, World";MessageRequester("Worajedt","Hello, how are you?"); IDE Options = PureBasic 4.61 (MacOS X - x86); EnableXP
+;Copyright 2017 Worajedt Sitthidumrong< sjedt@3ddaily.com >;CC BY-SA 3.0;Uncomment each lines and run to see the result;Debug "Hello, World";Can you tell the different between each parameters?;Click at the function name then F1 for help;MessageRequester("Worajedt","Hello, how are you?"); IDE Options = PureBasic 5.60 (MacOS X - x64); CursorPosition = 3; EnableXP
